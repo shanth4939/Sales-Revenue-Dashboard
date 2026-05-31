@@ -6,3 +6,10 @@ This project is a Power BI dashboard developed for analyzing sales and revenue p
 - Sales Trend Analysis
 - Top Performing Products
 - Region-wise Filtering
+
+## Tools Used
+- Power BI
+- Superstore Dataset
+
+## Project Outcome
+This dashboard helps visualize business insights and track sales performance interactively.
